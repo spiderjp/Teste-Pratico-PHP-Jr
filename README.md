@@ -98,5 +98,6 @@ códigos. Isso não é desculpa, apenas espero que compreenda o motivo de não t
 
 Agradeço pela oportunidade de fazer parte de um teste para ver minhas habilidades o quão apurado está ou quão necessário é estudar ou revisar determinados pontos.
 Desculpe pela demora ;D
+Pode ter certeza que buscarei arrumar o código e prencher todos os requisitos.
 
 
