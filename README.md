@@ -55,5 +55,23 @@ A utilização da API do ViaCEP por meio do ES6+ fora positiva, contudo, tive de
 o externo (não compreendi ou achei o real motivo de ter acontecido), por isso, o motivo maior de ter ficado "enorme" o arquivo principal.
 
 
+### Considerações Finais
+
+## Pensamentos sobre o Teste
+
+O teste não era complexo, apenas trabalhoso, fácil de entender a lógica, os requesitos e o objetivo dele, além do que deveria ser feito são interessantes,
+intrigantes e me incentiva a estudar mais PHP e as outras tecnologias, para relembrar, aprofundar e aperfeiçoar meus conhecimentos em cada uma delas.
+
+
+## "Problemas Pessoais"
+
+Os problemas pessoais que relatei no e-mail era referente a falta de computador para a realização da atividade, mas com a nova oportunidade, busquei encontrar
+um compoutador para iniciar o teste, mesmo que seja apenas para praticar, talvez por isso, não tive também tempo suficiente para implementar determinados
+códigos. Isso não é desculpa, apenas espero que compreenda o motivo de não ter conseguido criar uma aplicação mais bem feita e agradável em pouco tempo.
+
+## Agradecimentos
+
+Agradeço pela oportunidade de fazer parte de um teste para ver minhas habilidades o quão apurado está ou quão necessário é estudar ou revisar determinados pontos.
+Desculpe pela demora ;D
 
 
