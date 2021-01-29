@@ -36,7 +36,32 @@ e Apache com o BD teve êxito e a utilização principal está em mostrar os dad
 
 Para a implementação, utilizei esse código:
 
+    $servidor = "localhost";
+    $usuario = "root";
+    $senha = "";
+    $dbname = "vendas";
 
+    //Criando conexão para acessar banco de dados
+
+    $conex = mysqli_connect($servidor,$usuario,$senha,$dbname);
+
+    //Fazendo uma query (solicitação) para buscar os dados especificados de duas determinadas tabelas
+
+    $resultado_produtos = "SELECT * FROM produtos";
+    $resultado_fornecedores = "SELECT * FROM fornecedores";
+
+    //Executando as queries (chamadas)
+
+
+    $resultado_produtos2 = mysqli_query($conex, $resultado_produtos);
+    $resultado_fornecedores2 = mysqli_query($conex, $resultado_fornecedores);
+
+
+
+## GitHub:
+
+Eu criei apenas duas branchs, a main e a master, por conta de não ter usado durante o desenvolvimento, só instalando agora para enviar os arquivos.
+O motivo de não ter criado outras e feito merge é por considerar a master a principal, onde os códigos/ arquivos estão "completos".
 
 ## ES6+, HTML e CSS/Boostrap
 
