@@ -36,3 +36,24 @@ e Apache com o BD teve êxito e a utilização principal está em mostrar os dad
 
 Para a implementação, utilizei esse código:
 
+
+
+## ES6+, HTML e CSS/Boostrap
+
+Não tive problemas com os quatros, conquanto, utilizei a identação para todos, a utilização dos principais comandos.
+
+
+## AJAX e PHP
+
+Não consegui concluir no prazo combinado o filtro de pesquisas AJAX e PHP, apesar de ter usado AJAX antes com ES6+, com PHP, mesmo pesquisando,
+analisando e assistindo alguns códigos e aulas, não encontrei um em pouco tempo para poder implementar de forma legível e simples no meu código.
+
+
+## PHP e ViaCEP
+
+A utilização da API do ViaCEP por meio do ES6+ fora positiva, contudo, tive de usá-lo em script interno e não externo, por ter dado problemas com
+o externo (não compreendi ou achei o real motivo de ter acontecido), por isso, o motivo maior de ter ficado "enorme" o arquivo principal.
+
+
+
+
